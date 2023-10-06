@@ -19,12 +19,16 @@ This is a React Native project for a meal app that allows users to see various m
 ## Screenshots
 
 <div style="display: flex; flex-direction: column; align-items: center;">
-  <img src="./assets/images/1.png" width="140" alt="Screenshot 1" />
-  <img src="./assets/images/2.png" width="140" alt="Screenshot 1" />
-  <img src="./assets/images/3.png" width="140" alt="Screenshot 1" />
-  <img src="./assets/images/4.png" width="140" alt="Screenshot 1" />
-  <img src="./assets/images/5.png" width="140" alt="Screenshot 1" />
+  <img src="./assets/images/1.png" width="170" alt="Screenshot 1" />
+  <img src="./assets/images/2.png" width="170" alt="Screenshot 1" />
+  <img src="./assets/images/3.png" width="170" alt="Screenshot 1" />
+  <img src="./assets/images/4.png" width="170" alt="Screenshot 1" />
+  <img src="./assets/images/5.png" width="170" alt="Screenshot 1" />
 </div>
 
-[![Meal App Demo](./assets/video/vidMealApp.mp4)]
+
+
+https://github.com/sheikhabdulmoiz/Meal-Application/assets/106825649/372e52f3-df87-4827-a560-672b307fb494
+
+
 
