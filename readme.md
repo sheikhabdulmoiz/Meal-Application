@@ -19,11 +19,11 @@ This is a React Native project for a meal app that allows users to see various m
 ## Screenshots
 
 <div style="display: flex; flex-direction: column; align-items: center;">
-  <img src="./assets/images/1.png" width="170" alt="Screenshot 1" />
-  <img src="./assets/images/2.png" width="170" alt="Screenshot 1" />
-  <img src="./assets/images/3.png" width="170" alt="Screenshot 1" />
-  <img src="./assets/images/4.png" width="170" alt="Screenshot 1" />
-  <img src="./assets/images/5.png" width="170" alt="Screenshot 1" />
+  <img src="./assets/images/1.png" width="150" alt="Screenshot 1" />
+  <img src="./assets/images/2.png" width="150" alt="Screenshot 1" />
+  <img src="./assets/images/3.png" width="150" alt="Screenshot 1" />
+  <img src="./assets/images/4.png" width="150" alt="Screenshot 1" />
+  <img src="./assets/images/5.png" width="150" alt="Screenshot 1" />
 </div>
 
 
